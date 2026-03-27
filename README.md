@@ -6,7 +6,7 @@ Spring Boot backend to manage personal assets efficiently. Supports **CRUD opera
 
 ## Tech Stack
 
-- **Backend**: Java 25, Spring Boot 3.5, Spring Security, Spring Data JPA, MySQL  
+- **Backend**: Java 17, Spring Boot 3.5, Spring Security, Spring Data JPA, MySQL  
 - **Authentication**: JWT with role-based access (`ROLE_USER`, `ROLE_ADMIN`)  
 - **Others**: RESTful APIs, Swagger UI, Lombok
 
